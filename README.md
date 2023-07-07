@@ -1,7 +1,8 @@
 # 2048 and brief description of project
 
 My own personal version of a game called 2048. It's one of my fist projects so it might have a lot of bugs or any different issues.
-Game is playable and even though it requires many QoL changes it is still kind of enjoyable
+Game is playable and even though it requires many QoL changes it is still kind of enjoyable. To play version with only terminal run "2048Terminal.py"
+and to play version with GUI run "2048GUI.py"
 
 ## Rules
 
@@ -21,4 +22,4 @@ Game doesn't require almost anything just python interpreter and downloaded read
 
 Values shoving: wasd or arrows
 Exit mid game: Z
-Navigating menu: Menu tells you everything, but basically you type number (or word such as yes) corresponding to choice and press enter to confirm it
+Navigating menu (Terminal): Menu tells you everything, but basically you type number (or word such as yes) corresponding to choice and press enter to confirm it
